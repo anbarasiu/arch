@@ -135,7 +135,7 @@ input[type='checkbox'], input[type='radio'] { display: inline; }
 
 .row .column .column-center { align-self: center; }
 
-@media (min-width: 40rem) { .row { flex-direction: row; width: 50%; margin: auto; } .row .column { margin-bottom: inherit; padding: 0 1.0rem; } }
+@media (min-width: 40rem) { .row { flex-direction: row; width: 75%; margin: auto; } .row .column { margin-bottom: inherit; padding: 0 1.0rem; } }
 
 /*! Milligram-scss v1.3.0 https://milligram.github.io Copyright (c) 2017 CJ Patoilo Licensed under the MIT license */
 a { color: black; text-decoration: none; }
