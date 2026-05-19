@@ -1,4 +1,4 @@
-# Arch - Anbarasi U's Personal Website
+# Arch
 
 **Live Site:** [anbuu.in](https://anbuu.in)
 
